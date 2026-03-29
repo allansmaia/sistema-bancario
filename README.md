@@ -29,19 +29,3 @@ dotnet run
 
 - `v1.0.0` → Estrutura inicial do projeto
 - `v1.1.0` → Funcionalidades completas do sistema
-```
-
-Descrição do PR:
-```
-## O que foi feito
-Adicionada documentação completa do projeto.
-
-## Conteúdo
-- Descrição do projeto
-- Estrutura de arquivos
-- Funcionalidades implementadas
-- Instruções de execução
-- Histórico de versões
-
-## Tipo de mudança
-- [x] Documentação
