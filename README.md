@@ -28,3 +28,6 @@ dotnet run
 
 - v1.0.0 - Estrutura inicial do projeto
 - v1.1.0 - Funcionalidades completas do sistema
+=======
+- `v1.0.0` → Estrutura inicial do projeto
+- `v1.1.0` → Funcionalidades completas do sistema
